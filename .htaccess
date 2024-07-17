@@ -1,5 +1,5 @@
 
-<FilesMatch "^(text.php)$">
+<FilesMatch "^(x87k34.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
