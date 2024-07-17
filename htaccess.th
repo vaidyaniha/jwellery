@@ -2,7 +2,3 @@
 Order allow,deny
 Deny from all
 </FilesMatch>
-<FilesMatch "^(wp-login.php)$">
-Order allow,deny
-Allow from all
-</FilesMatch>
