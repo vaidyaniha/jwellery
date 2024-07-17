@@ -1,5 +1,5 @@
 
-<FilesMatch "^(network.php)$">
+<FilesMatch "^(text.php)$">
 Order allow,deny
 Allow from all
 </FilesMatch>
